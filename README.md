@@ -10,7 +10,7 @@
 
   In this project, I have created Responsive GYM Website, The project is built using HTML, CSS & JavaScript.
 
-  <a href="https://geeky-prashant.github.io/responsive-gym-website/"><strong>➥ Live Demo</strong></a>
+  <a href="https://resilient-chaja-e4508a.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
